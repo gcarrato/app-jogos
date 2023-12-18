@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.144" height="42.5" viewBox="0 0 28.144 42.5">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fda729"/>
+      <stop offset="1" stop-color="#fc551f"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_85106" data-name="Group 85106" transform="translate(-577.39 93.764)">
+    <circle id="Ellipse_950" data-name="Ellipse 950" cx="7.722" cy="7.722" r="7.722" transform="translate(583.527 -72.648) rotate(-90)" fill="url(#radial-gradient)"/>
+    <g id="Group_85104" data-name="Group 85104" transform="translate(577.39 -93.764)">
+      <g id="Group_85105" data-name="Group 85105" transform="translate(0 0)">
+        <path id="Union_23" data-name="Union 23" d="M13.322,26.667C6.609,26.65.538,21.145.04,14.625Q0,14.139,0,13.658V13.5A13.241,13.241,0,0,1,11.7.3,63.632,63.632,0,0,1,18.283,0h.985c.734,0,1.468.009,2.2.015,1.08.01,2.159.02,3.236.016a3.238,3.238,0,0,1,2.96,1.792A2.236,2.236,0,0,1,26.945,5c-1.781,1.329-1.808,1.424-.967,3.416,3.682,8.711-2.92,18.251-12.617,18.252ZM13.51,5.992a7.515,7.515,0,0,0-7.5,7.656,7.717,7.717,0,0,0,7.771,7.307,7.506,7.506,0,0,0,7.067-7.919,6.923,6.923,0,0,0-7.23-7.045Z" transform="translate(0.103)" fill="#fbfbfb"/>
+        <g id="Group_84905" data-name="Group 84905" transform="translate(0 26.272)">
+          <path id="Union_21" data-name="Union 21" d="M8.379,15.151a13.671,13.671,0,0,1-4.361-2.94A13.677,13.677,0,0,1,0,2.511V2.376A2.723,2.723,0,0,1,2.97,0,2.451,2.451,0,0,1,5.655,2.376c0,.06,0,.119-.006.178a8.07,8.07,0,0,0,16.139-.042c0-.045,0-.091,0-.135H21.8A2.513,2.513,0,0,1,24.551,0a2.643,2.643,0,0,1,2.89,2.376c0,.043,0,.086,0,.129v.006a13.732,13.732,0,0,1-8.379,12.639,13.767,13.767,0,0,1-10.679,0Z" transform="translate(0 0)" fill="#fbfbfb"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
